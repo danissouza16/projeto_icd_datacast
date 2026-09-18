@@ -1,5 +1,6 @@
 # Dados grandes (não versionados - ver README/CONTEXT.md sobre como obtê-los)
 datacast-repo/data/
+*.zip
 
 # Download incompleto
 *.crdownload
